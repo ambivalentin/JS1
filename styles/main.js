@@ -1,10 +1,10 @@
 console.log("Hello World!") 
 
 let firstName = "Valentin";
-let age = 32;
+let age = "32";
 let favoriteColor = "black";
 
-console.log("My name is ${firstName}. I am ${32} years old and my favorite color is ${favoriteColor}");
+console.log(`My name is ${firstName}. I am ${age} years old and my favorite color is ${favoriteColor}`);
 
 
 let dogs = 20;
